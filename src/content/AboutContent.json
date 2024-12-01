@@ -1,15 +1,15 @@
 {
-  "title": "Light, fast & responsive",
-  "text": "This template is ready to use, so you don't need to change anything at a component level, unless you want to customize the default styling.",
+  "title": "Scalable, Innovative & User-Friendly Solutions",
+  "text": "IHSUK Tech provides scalable and innovative digital solutions designed to help your business grow. Our products are crafted to be user-friendly and adaptable, ensuring they meet the evolving needs of modern enterprises.",
   "section": [
     {
-      "title": "Why Antd?",
-      "content": "Ant Design is a React UI library that has a lot of easy-to-use components for building elegant UI.",
+      "title": "Why Choose IHSUK Tech?",
+      "content": "Our expertise in cutting-edge technology enables us to deliver reliable solutions tailored to your business needs, from SaaS applications to custom software development.",
       "icon": "notes.svg"
     },
     {
-      "title": "Why styled-components?",
-      "content": "Styled Components gives you total control over your components.",
+      "title": "Complete Control Over Customization",
+      "content": "Our platforms are designed to be flexible, giving you complete control to customize and scale as your business grows.",
       "icon": "notes.svg"
     }
   ]
